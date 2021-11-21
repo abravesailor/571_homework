@@ -30,7 +30,7 @@ WordSim353是一个词语相似度基准数据集，在WordSim353数据集中，
 在Word2Vec文件夹下运行 ``python word2vec.py``, 即可成功运行, 运行生成两个文件 word2vec_gensim和score.npy。
 
 ---
-
+$$\sum_{i=0}N\int_{a}{b}g(t,i)\text{d}t$$
 ## B TransE实现
 
 这个部分中，你需要根据提供的代码框架实现TransE，在wikidata数据集训练出实体和关系的向量表示，并对向量进行分析。
